@@ -2,4 +2,5 @@
 
 ---
 
-- 1 - 🎞️ [Stone ｜ 1 Minute Short Film ｜ Hot Shot](https://github.com/alihamzhei/youtube-download/tree/main/videos/Stone%20%EF%BD%9C%201%20Minute%20Short%20Film%20%EF%BD%9C%20Hot%20Shot)
+- 1 - 🎮 [Stone ｜ 1 Minute Short Film ｜ Hot Shot](https://github.com/mscjdnbdkamvkid/yy_dl/tree/main/videos/Stone%20%EF%BD%9C%201%20Minute%20Short%20Film%20%EF%BD%9C%20Hot%20Shot)
+- 2 - 🎮 [The best JORTS (Levis 469 Loose Shorts)](https://github.com/mscjdnbdkamvkid/yy_dl/tree/main/videos/The%20best%20JORTS%20%28Levis%20469%20Loose%20Shorts%29)
